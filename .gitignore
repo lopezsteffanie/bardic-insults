@@ -1,0 +1,5 @@
+app.yaml
+.vscode/
+.DS_Store
+.gcloudignore
+venv/
